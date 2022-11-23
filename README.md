@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @avigr8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me avigr8_hak@hotmail.com | avinash@reboot-software.com
+- 👋 Hi, I’m Avinash kumar (@avigr8)
+- 🏢 I Work at Reboot Software
+- 🌱 I am on LinkedIn : https://www.linkedin.com/in/avigr8/
+- 👀 I’m on skype too avigr8
+- 💞️ I’m looking to collaborate on web, desktop and mobile technologies.
+- 📫 How to reach me: avigr8_hak@hotmail.com | avinash@reboot-software.com
+- 😄 Pronouns: he/him/his
 
 <!---
 avigr8/avigr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
